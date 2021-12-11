@@ -62,7 +62,7 @@ android {
             resValue "string", "is_release", "false"
             resValue "string", "guidesUrl", "https://raw.githubusercontent.com/horizontalsystems/blockchain-crypto-guides/develop/index.json"
             resValue "string", "faqUrl", "https://raw.githubusercontent.com/horizontalsystems/Unstoppable-Wallet-Website/master/src/faq.json"
-            resValue "string", "coinsJsonUrl", "hhttps://raw.githubusercontent.com/FRIENDS-Token/coi/master/coins.json"
+            resValue "string", "coinsJsonUrl", "https://raw.githubusercontent.com/FRIENDS-Token/coi/master/coins.json"
             resValue "string", "providerCoinsJsonUrl", "https://raw.githubusercontent.com/FRIENDS-Token/coi/master/default.coins.json"
             resValue "string", "marketApiBaseUrl", "https://api-dev.blocksdecoded.com"
             resValue "string", "marketApiKey", "IQf1uAjkthZp1i2pYzkXFDom"
