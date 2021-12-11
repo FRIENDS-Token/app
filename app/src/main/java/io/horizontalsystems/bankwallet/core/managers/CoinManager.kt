@@ -15,6 +15,7 @@ class CoinManager(
 ) : ICoinManager {
 
     private val featuredCoinUids = listOf(
+        "friends",
         "bitcoin",
         "ethereum",
         "bitcoin-cash",
@@ -30,7 +31,7 @@ class CoinManager(
         "curve-dao-token",
         "0x",
         "bancor",
-        "balancer",
+        "friends",
         "republic-protocol",
         "tether",
         "usd-coin",
