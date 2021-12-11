@@ -62,8 +62,8 @@ android {
             resValue "string", "is_release", "false"
             resValue "string", "guidesUrl", "https://raw.githubusercontent.com/horizontalsystems/blockchain-crypto-guides/develop/index.json"
             resValue "string", "faqUrl", "https://raw.githubusercontent.com/horizontalsystems/Unstoppable-Wallet-Website/master/src/faq.json"
-            resValue "string", "coinsJsonUrl", "https://raw.githubusercontent.com/horizontalsystems/cryptocurrencies/master/coins.json"
-            resValue "string", "providerCoinsJsonUrl", "https://raw.githubusercontent.com/horizontalsystems/cryptocurrencies/master/provider.coins.json"
+            resValue "string", "coinsJsonUrl", "hhttps://raw.githubusercontent.com/FRIENDS-Token/coi/master/coins.json"
+            resValue "string", "providerCoinsJsonUrl", "https://raw.githubusercontent.com/FRIENDS-Token/coi/master/default.coins.json"
             resValue "string", "marketApiBaseUrl", "https://api-dev.blocksdecoded.com"
             resValue "string", "marketApiKey", "IQf1uAjkthZp1i2pYzkXFDom"
         }
@@ -99,8 +99,8 @@ android {
             resValue "string", "is_release", "true"
             resValue "string", "guidesUrl", "https://raw.githubusercontent.com/horizontalsystems/blockchain-crypto-guides/v1.2/index.json"
             resValue "string", "faqUrl", "https://raw.githubusercontent.com/horizontalsystems/Unstoppable-Wallet-Website/v1.2/src/faq.json"
-            resValue "string", "coinsJsonUrl", "https://raw.githubusercontent.com/horizontalsystems/cryptocurrencies/v0.21/coins.json"
-            resValue "string", "providerCoinsJsonUrl", "https://raw.githubusercontent.com/horizontalsystems/cryptocurrencies/v0.21/provider.coins.json"
+            resValue "string", "coinsJsonUrl", "https://raw.githubusercontent.com/FRIENDS-Token/coi/master/coins.json"
+            resValue "string", "providerCoinsJsonUrl", https://raw.githubusercontent.com/FRIENDS-Token/coi/master/default.coins.json"
             resValue "string", "marketApiBaseUrl", "https://api.blocksdecoded.com"
             resValue "string", "marketApiKey", "IQf1uAjkthZp1i2pYzkXFDom"
         }
